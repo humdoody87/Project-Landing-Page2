@@ -1,0 +1,22 @@
+body {
+
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container {
+
+    gap: 8px;
+    margin-top: 300px;
+    
+}
+
+.firstSect {
+
+    margin-bottom: 10px;
+    padding: 5px;
+    color: #3882F6;
+
+}
