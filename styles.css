@@ -3,6 +3,7 @@ body {
     display: flex;    
     justify-content: center;
     align-items: center;
+    background-color: gray;
     
 }
 
@@ -15,8 +16,46 @@ body {
 
 .firstSect {
 
-    margin-bottom: 10px;
+    background-color: white;
     padding: 5px;
     color: #3882F6;
+    font-size: 40px;
+    font-weight: 300;
+    font: bolder;
 
+}
+
+.secondSect {
+
+    color: #F9FAF8;
+    background-color: #1f2937;
+
+
+}
+
+.smaller-1 {
+
+    margin-bottom: 25px;
+
+}
+
+.bigger-1 {
+
+    font: boler;
+    font-size: 48px;
+    margin-bottom: 25px;
+    
+}
+
+.smaller-3 {
+
+    margin-bottom: 25px;
+
+}
+
+.bigger-2 {
+
+    font-size: 24px;
+    color: #F9FAF8;
+    
 }
